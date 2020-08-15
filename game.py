@@ -1,5 +1,8 @@
 #import modules
 import pygame
+#level of the game
+def level():
+    pass
 # display game main menu
 def renderMainMenu():
     pass
